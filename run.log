@@ -1,0 +1,7 @@
+2026-07-07 12:41:55,288 - INFO - Job started
+2026-07-07 12:41:55,288 - INFO - Config loaded successfully: seed=42, window=5, version=v1
+2026-07-07 12:41:55,323 - INFO - Rows loaded: 10000
+2026-07-07 12:41:55,327 - INFO - Rolling mean calculated
+2026-07-07 12:41:55,328 - INFO - Signal generation completed
+2026-07-07 12:41:55,328 - INFO - Metrics: rows=10000, signal_rate=0.4989, latency_ms=40
+2026-07-07 12:41:55,328 - INFO - Job completed successfully
