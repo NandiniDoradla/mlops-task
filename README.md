@@ -30,6 +30,10 @@ mlops-task/
 ```
 
 ---
+## Requirements
+
+- Python 3.9+
+- Docker Desktop (for Docker execution)
 
 ## Local Run Instructions
 
